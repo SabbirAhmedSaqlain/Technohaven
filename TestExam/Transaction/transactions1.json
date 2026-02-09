@@ -1,0 +1,6 @@
+[
+  { "id": "T001", "dateISO": "2026-02-01T10:15:00Z", "title": "Grocery", "amount": -45.25 },
+  { "id": "T002", "dateISO": "2026-02-03T08:00:00Z", "title": "Salary", "amount": 1200.00 },
+  { "id": "T003", "dateISO": "2026-02-05T18:30:00Z", "title": "Coffee", "amount": -3.75 }
+]
+
